@@ -1,0 +1,761 @@
+﻿{
+  "version": 1,
+  "quizzes": [
+{
+      "id": 1,
+      "title": "Brazilian Nature",
+      "questions": [
+        {
+          "id": 1,
+          "title": "Brazilian Forests",
+          "prompt": "What is the name of the largest Brazilian forest?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Caatinga"
+            },
+            {
+              "id": 2,
+              "title": "Cerrado"
+            },
+            {
+              "id": 3,
+              "title": "Atlantic Forest"
+            },
+            {
+              "id": 4,
+              "title": "Amazon Rainforest"
+            }
+          ],
+          "correctAnswerId": 4
+        },
+        {
+          "id": 2,
+          "title": "Brazilian Beaches",
+          "prompt": "Which state has the longest coastline in Brazil?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Sao Paulo"
+            },
+            {
+              "id": 2,
+              "title": "Maranhao"
+            },
+            {
+              "id": 3,
+              "title": "Bahia"
+            },
+            {
+              "id": 4,
+              "title": "Rio de Janeiro"
+            }
+          ],
+          "correctAnswerId": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Do You Know Dev Pablo?",
+      "questions": [
+        {
+          "id": 1,
+          "title": "Flutter Experience",
+          "prompt": "What is Pablo\u0027s experience level with Flutter?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Pablo has never worked with Flutter."
+            },
+            {
+              "id": 2,
+              "title": "Pablo only tried Flutter in one small project."
+            },
+            {
+              "id": 3,
+              "title": "Pablo has broad experience and advanced Flutter skills."
+            },
+            {
+              "id": 4,
+              "title": "Pablo has heard of Flutter but never used it in practice."
+            }
+          ],
+          "correctAnswerId": 3
+        },
+        {
+          "id": 2,
+          "title": "Clean Architecture",
+          "prompt": "Does Pablo understand Clean Architecture?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Yes, Pablo has solid Clean Architecture knowledge and can separate layers in an organized and scalable way."
+            },
+            {
+              "id": 2,
+              "title": "No, Pablo has never heard about Clean Architecture."
+            },
+            {
+              "id": 3,
+              "title": "Pablo thinks Clean Architecture only means writing many comments in the code."
+            },
+            {
+              "id": 4,
+              "title": "Pablo believes Clean Architecture is only theoretical and not practical."
+            }
+          ],
+          "correctAnswerId": 1
+        },
+        {
+          "id": 3,
+          "title": "Firebase Skills",
+          "prompt": "What are Pablo\u0027s Firebase-related skills?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Pablo knows all Firebase features but has never used them in real projects."
+            },
+            {
+              "id": 2,
+              "title": "Pablo has practical Firebase integration experience in Flutter projects, including auth, realtime database, and notifications."
+            },
+            {
+              "id": 3,
+              "title": "Pablo believes Firebase is an obsolete backend option."
+            },
+            {
+              "id": 4,
+              "title": "Pablo only used Firebase in web projects, never in mobile apps."
+            }
+          ],
+          "correctAnswerId": 2
+        },
+        {
+          "id": 4,
+          "title": "State Management Skills",
+          "prompt": "How does Pablo handle state management in Flutter?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Pablo believes state management is irrelevant in Flutter apps."
+            },
+            {
+              "id": 2,
+              "title": "Pablo only uses setState() for all app state management."
+            },
+            {
+              "id": 3,
+              "title": "Pablo tried several state management libraries but could not apply them correctly."
+            },
+            {
+              "id": 4,
+              "title": "Pablo has deep knowledge of multiple state management solutions, including Provider, GetX, and MobX, and can choose the right one per case."
+            }
+          ],
+          "correctAnswerId": 4
+        },
+        {
+          "id": 5,
+          "title": "Source Control",
+          "prompt": "How does Pablo handle source control?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Pablo is proficient with Git, uses branches and pull requests, and understands collaborative version control workflows."
+            },
+            {
+              "id": 2,
+              "title": "Pablo thinks source control is outdated."
+            },
+            {
+              "id": 3,
+              "title": "Pablo only uses Git as a file backup tool."
+            },
+            {
+              "id": 4,
+              "title": "Pablo has never needed source control."
+            }
+          ],
+          "correctAnswerId": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "World History",
+      "questions": [
+        {
+          "id": 1,
+          "title": "Industrial Revolution",
+          "prompt": "In which century did the Industrial Revolution begin?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "18th century"
+            },
+            {
+              "id": 2,
+              "title": "19th century"
+            },
+            {
+              "id": 3,
+              "title": "16th century"
+            },
+            {
+              "id": 4,
+              "title": "17th century"
+            }
+          ],
+          "correctAnswerId": 2
+        },
+        {
+          "id": 2,
+          "title": "French Revolution",
+          "prompt": "What was the motto of the French Revolution?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Equality, Brotherhood, Progress"
+            },
+            {
+              "id": 2,
+              "title": "Liberty, Equality, Love"
+            },
+            {
+              "id": 3,
+              "title": "Peace, Equality, Solidarity"
+            },
+            {
+              "id": 4,
+              "title": "Liberty, Equality, Fraternity"
+            }
+          ],
+          "correctAnswerId": 4
+        },
+        {
+          "id": 3,
+          "title": "Middle Ages",
+          "prompt": "Which historical period came after the Middle Ages?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Renaissance"
+            },
+            {
+              "id": 2,
+              "title": "Modern Age"
+            },
+            {
+              "id": 3,
+              "title": "Classical Antiquity"
+            },
+            {
+              "id": 4,
+              "title": "Industrial Era"
+            }
+          ],
+          "correctAnswerId": 1
+        },
+        {
+          "id": 4,
+          "title": "Russian Revolution",
+          "prompt": "In what year did the Russian Revolution happen?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "1905"
+            },
+            {
+              "id": 2,
+              "title": "1920"
+            },
+            {
+              "id": 3,
+              "title": "1917"
+            },
+            {
+              "id": 4,
+              "title": "1930"
+            }
+          ],
+          "correctAnswerId": 3
+        },
+        {
+          "id": 5,
+          "title": "World War II",
+          "prompt": "Which country was first invaded in World War II?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "France"
+            },
+            {
+              "id": 2,
+              "title": "Poland"
+            },
+            {
+              "id": 3,
+              "title": "Russia"
+            },
+            {
+              "id": 4,
+              "title": "United Kingdom"
+            }
+          ],
+          "correctAnswerId": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Science and Technology",
+      "questions": [
+        {
+          "id": 1,
+          "title": "Atomic Model",
+          "prompt": "Which scientist proposed an atomic model with a central nucleus?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Isaac Newton"
+            },
+            {
+              "id": 2,
+              "title": "Albert Einstein"
+            },
+            {
+              "id": 3,
+              "title": "Ernest Rutherford"
+            },
+            {
+              "id": 4,
+              "title": "Niels Bohr"
+            }
+          ],
+          "correctAnswerId": 3
+        },
+        {
+          "id": 2,
+          "title": "Discovery of Penicillin",
+          "prompt": "Who discovered penicillin?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Alexander Fleming"
+            },
+            {
+              "id": 2,
+              "title": "Louis Pasteur"
+            },
+            {
+              "id": 3,
+              "title": "Marie Curie"
+            },
+            {
+              "id": 4,
+              "title": "Gregor Mendel"
+            }
+          ],
+          "correctAnswerId": 1
+        },
+        {
+          "id": 3,
+          "title": "Theory of Relativity",
+          "prompt": "Which theory proposed by Albert Einstein revolutionized physics?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Kepler\u0027s Laws"
+            },
+            {
+              "id": 2,
+              "title": "Law of Gravity"
+            },
+            {
+              "id": 3,
+              "title": "Coulomb\u0027s Law"
+            },
+            {
+              "id": 4,
+              "title": "Theory of Relativity"
+            }
+          ],
+          "correctAnswerId": 4
+        },
+        {
+          "id": 4,
+          "title": "Cloning Dolly",
+          "prompt": "What was the name of the first sheep cloned from an adult cell?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Bella"
+            },
+            {
+              "id": 2,
+              "title": "Dolly"
+            },
+            {
+              "id": 3,
+              "title": "Luna"
+            },
+            {
+              "id": 4,
+              "title": "Molly"
+            }
+          ],
+          "correctAnswerId": 2
+        },
+        {
+          "id": 5,
+          "title": "Space Exploration",
+          "prompt": "Who was the first human to travel into space?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Yuri Gagarin"
+            },
+            {
+              "id": 2,
+              "title": "Neil Armstrong"
+            },
+            {
+              "id": 3,
+              "title": "Buzz Aldrin"
+            },
+            {
+              "id": 4,
+              "title": "John Glenn"
+            }
+          ],
+          "correctAnswerId": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Classic Literature",
+      "questions": [
+        {
+          "id": 1,
+          "title": "Don Quixote",
+          "prompt": "Who is the author of \u0027Don Quixote\u0027?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Machado de Assis"
+            },
+            {
+              "id": 2,
+              "title": "Jorge Luis Borges"
+            },
+            {
+              "id": 3,
+              "title": "Miguel de Cervantes"
+            },
+            {
+              "id": 4,
+              "title": "Gabriel Garcia Marquez"
+            }
+          ],
+          "correctAnswerId": 3
+        },
+        {
+          "id": 2,
+          "title": "Romeo and Juliet",
+          "prompt": "Which tragedy written by William Shakespeare tells the story of forbidden love between two young people?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Romeo and Juliet"
+            },
+            {
+              "id": 2,
+              "title": "Hamlet"
+            },
+            {
+              "id": 3,
+              "title": "Dom Casmurro"
+            },
+            {
+              "id": 4,
+              "title": "One Hundred Years of Solitude"
+            }
+          ],
+          "correctAnswerId": 1
+        },
+        {
+          "id": 3,
+          "title": "The Odyssey",
+          "prompt": "Which Greek epic tells the story of Odysseus returning home after the Trojan War?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Aeneid"
+            },
+            {
+              "id": 2,
+              "title": "Iliad"
+            },
+            {
+              "id": 3,
+              "title": "Divine Comedy"
+            },
+            {
+              "id": 4,
+              "title": "The Odyssey"
+            }
+          ],
+          "correctAnswerId": 4
+        },
+        {
+          "id": 4,
+          "title": "1984",
+          "prompt": "Which dystopian novel by George Orwell describes a totalitarian government that controls citizens\u0027 thoughts?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Brave New World"
+            },
+            {
+              "id": 2,
+              "title": "1984"
+            },
+            {
+              "id": 3,
+              "title": "Fahrenheit 451"
+            },
+            {
+              "id": 4,
+              "title": "A Clockwork Orange"
+            }
+          ],
+          "correctAnswerId": 2
+        },
+        {
+          "id": 5,
+          "title": "The Metamorphosis",
+          "prompt": "What is the title of the work in which the main character wakes up transformed into an insect?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "The Metamorphosis"
+            },
+            {
+              "id": 2,
+              "title": "The Stranger"
+            },
+            {
+              "id": 3,
+              "title": "The Trial"
+            },
+            {
+              "id": 4,
+              "title": "One Hundred Years of Solitude"
+            }
+          ],
+          "correctAnswerId": 1
+        },
+        {
+          "id": 6,
+          "title": "Les Miserables",
+          "prompt": "Who is the author of the novel \u0027Les Miserables\u0027?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Gustave Flaubert"
+            },
+            {
+              "id": 2,
+              "title": "Honore de Balzac"
+            },
+            {
+              "id": 3,
+              "title": "Emile Zola"
+            },
+            {
+              "id": 4,
+              "title": "Victor Hugo"
+            }
+          ],
+          "correctAnswerId": 4
+        },
+        {
+          "id": 7,
+          "title": "Pride and Prejudice",
+          "prompt": "Which Jane Austen novel explores relationships across social classes in 19th-century England?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Sense and Sensibility"
+            },
+            {
+              "id": 2,
+              "title": "Emma"
+            },
+            {
+              "id": 3,
+              "title": "Pride and Prejudice"
+            },
+            {
+              "id": 4,
+              "title": "Persuasion"
+            }
+          ],
+          "correctAnswerId": 3
+        },
+        {
+          "id": 8,
+          "title": "Crime and Punishment",
+          "prompt": "What is the title of the work in which Raskolnikov commits a murder and faces psychological conflict?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Crime and Punishment"
+            },
+            {
+              "id": 2,
+              "title": "The Brothers Karamazov"
+            },
+            {
+              "id": 3,
+              "title": "Anna Karenina"
+            },
+            {
+              "id": 4,
+              "title": "War and Peace"
+            }
+          ],
+          "correctAnswerId": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Natural Sciences",
+      "questions": [
+        {
+          "id": 1,
+          "title": "Solar System",
+          "prompt": "Which planet is closest to the Sun?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Mars"
+            },
+            {
+              "id": 2,
+              "title": "Mercury"
+            },
+            {
+              "id": 3,
+              "title": "Venus"
+            },
+            {
+              "id": 4,
+              "title": "Earth"
+            }
+          ],
+          "correctAnswerId": 2
+        },
+        {
+          "id": 2,
+          "title": "DNA",
+          "prompt": "What does the acronym DNA stand for?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Degenerative Neural Disorder"
+            },
+            {
+              "id": 2,
+              "title": "Diagnostic New Abnormalities"
+            },
+            {
+              "id": 3,
+              "title": "Deoxyribonucleic Acid"
+            },
+            {
+              "id": 4,
+              "title": "Autosomal Nervous Disturbance"
+            }
+          ],
+          "correctAnswerId": 3
+        },
+        {
+          "id": 3,
+          "title": "Photosynthesis",
+          "prompt": "What is the process by which plants convert sunlight into energy?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Photosynthesis"
+            },
+            {
+              "id": 2,
+              "title": "Cellular Respiration"
+            },
+            {
+              "id": 3,
+              "title": "Transpiration"
+            },
+            {
+              "id": 4,
+              "title": "Fermentation"
+            }
+          ],
+          "correctAnswerId": 1
+        },
+        {
+          "id": 4,
+          "title": "Chemical Reactions",
+          "prompt": "In the chemical equation \u00272H2 + O2 -\u003e 2H2O\u0027, what does \u0027H2O\u0027 represent?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Carbon Dioxide"
+            },
+            {
+              "id": 2,
+              "title": "Nitrogen Gas"
+            },
+            {
+              "id": 3,
+              "title": "Sulfuric Acid"
+            },
+            {
+              "id": 4,
+              "title": "Water"
+            }
+          ],
+          "correctAnswerId": 4
+        },
+        {
+          "id": 5,
+          "title": "Evolution",
+          "prompt": "Which scientist proposed the theory of evolution by natural selection?",
+          "alternatives": [
+            {
+              "id": 1,
+              "title": "Isaac Newton"
+            },
+            {
+              "id": 2,
+              "title": "Gregor Mendel"
+            },
+            {
+              "id": 3,
+              "title": "Charles Darwin"
+            },
+            {
+              "id": 4,
+              "title": "Albert Einstein"
+            }
+          ],
+          "correctAnswerId": 3
+        }
+      ]
+    }
+  ]
+}

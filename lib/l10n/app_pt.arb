@@ -1,0 +1,65 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Quira",
+  "homeTagline": "Quizzes rápidos com feedback imediato",
+  "homeCompletedMetric": "{completed} / {total} concluídos",
+  "@homeCompletedMetric": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "homeLoadErrorTitle": "Não foi possível carregar os quizzes",
+  "homeTryAgain": "Tentar novamente",
+  "homeNoQuizzesTitle": "Nenhum quiz disponível",
+  "homeNoQuizzesMessage": "Seu catálogo de quizzes está vazio no momento.",
+  "homeRefresh": "Atualizar",
+  "homeTapToReviewAnswers": "Toque para revisar suas respostas",
+  "homeTapToStartQuiz": "Toque para iniciar este quiz",
+  "quizNoQuestions": "Este quiz não possui perguntas.",
+  "quizSaving": "Salvando...",
+  "quizFinish": "Finalizar quiz",
+  "quizNextQuestion": "Próxima pergunta",
+  "quizIncompleteTitle": "Quiz incompleto",
+  "quizIncompleteMessage": "Responda todas as perguntas antes de finalizar.",
+  "resultNoQuestions": "Este quiz não possui perguntas para exibir no resultado.",
+  "resultCompletedTitle": "Quiz concluído",
+  "resultCorrectCount": "{correct} de {total} respostas corretas",
+  "@resultCorrectCount": {
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "resultStatusUnanswered": "Não respondida",
+  "resultStatusCorrect": "Correta",
+  "resultStatusIncorrect": "Incorreta",
+  "resultYourAnswerLabel": "Sua resposta",
+  "resultNotAnswered": "Não respondida",
+  "resultCorrectAnswerLabel": "Resposta correta",
+  "resultUnavailable": "Indisponível",
+  "resultRestarting": "Reiniciando...",
+  "resultRedoQuiz": "Refazer quiz",
+  "resultQuestionTitle": "{number} - {prompt}",
+  "@resultQuestionTitle": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "prompt": {}
+    }
+  },
+  "errorInvalidExternalData": "Alguns dados externos estão inválidos.",
+  "errorStorageReadFailed": "Não foi possível ler os dados locais.",
+  "errorStorageWriteFailed": "Não foi possível salvar os dados locais.",
+  "errorInvalidParams": "Parâmetros inválidos.",
+  "errorUnknown": "Erro inesperado."
+}

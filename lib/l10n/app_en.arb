@@ -1,0 +1,65 @@
+{
+  "@@locale": "en",
+  "appTitle": "Quira",
+  "homeTagline": "Fast quizzes with instant feedback",
+  "homeCompletedMetric": "{completed} / {total} completed",
+  "@homeCompletedMetric": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "homeLoadErrorTitle": "Could not load quizzes",
+  "homeTryAgain": "Try again",
+  "homeNoQuizzesTitle": "No quizzes available",
+  "homeNoQuizzesMessage": "Your quiz catalog is empty right now.",
+  "homeRefresh": "Refresh",
+  "homeTapToReviewAnswers": "Tap to review your answers",
+  "homeTapToStartQuiz": "Tap to start this quiz",
+  "quizNoQuestions": "This quiz has no questions.",
+  "quizSaving": "Saving...",
+  "quizFinish": "Finish quiz",
+  "quizNextQuestion": "Next question",
+  "quizIncompleteTitle": "Incomplete quiz",
+  "quizIncompleteMessage": "Answer all questions before finishing.",
+  "resultNoQuestions": "This quiz has no questions to show in the result view.",
+  "resultCompletedTitle": "Quiz completed",
+  "resultCorrectCount": "{correct} out of {total} correct answers",
+  "@resultCorrectCount": {
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "resultStatusUnanswered": "Unanswered",
+  "resultStatusCorrect": "Correct",
+  "resultStatusIncorrect": "Incorrect",
+  "resultYourAnswerLabel": "Your answer",
+  "resultNotAnswered": "Not answered",
+  "resultCorrectAnswerLabel": "Correct answer",
+  "resultUnavailable": "Unavailable",
+  "resultRestarting": "Restarting...",
+  "resultRedoQuiz": "Redo quiz",
+  "resultQuestionTitle": "{number} - {prompt}",
+  "@resultQuestionTitle": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "prompt": {}
+    }
+  },
+  "errorInvalidExternalData": "Some external data is invalid.",
+  "errorStorageReadFailed": "Unable to read local data.",
+  "errorStorageWriteFailed": "Unable to save local data.",
+  "errorInvalidParams": "Invalid parameters.",
+  "errorUnknown": "Unexpected error."
+}
